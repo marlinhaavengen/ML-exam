@@ -9,7 +9,9 @@ Four models were implemented: Logistic Regression (as the baseline), Decision Tr
 The results indicated that Extreme Gradient Boosting outperformed the other models in this classification task, demonstrating superior overall consistency based on the evaluation metrics. 
 
 
-**Keywords: Binary Classification, Habitability, SMOTE, Decision Tree, Random Forest, Extreme Gradient Boosting**
+**Keywords:**
+Binary Classification, Habitability, SMOTE, Decision Tree, Random Forest, Extreme Gradient Boosting
+
 
 **Credits:** 
 Harriet Zoe Schmidt, Elfur Örlygsdóttir & Kristin Sundby 
